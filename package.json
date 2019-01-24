@@ -1,0 +1,10 @@
+{
+  "name": "stamp-pkg",
+  "version": "0.0.1",
+  "description": "stamp packaging files such as package.json and readme files to multiple distributions",
+  "author": "Dakota Jang",
+  "license": "MIT",
+  "bin": {
+    "stamp-pkg": "./cli.js"
+  }
+}
